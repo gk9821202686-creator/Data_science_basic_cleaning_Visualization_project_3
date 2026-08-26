@@ -17,7 +17,7 @@ This project analyzes financial performance across four different companies over
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * **Language:** Python
 * **Data Manipulation:** Pandas, NumPy
